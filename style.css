@@ -1,0 +1,30 @@
+#wrapper {
+  width: 500px;
+  background: white;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  border: 2px solid blueviolet;
+}
+
+#hello {
+  text-align: center;
+  text-decoration: overline;
+}
+
+#time {
+  text-align: center;
+  font-weight: normal;
+  color: darkblue;
+}
+
+#item {
+  font-weight: bold;
+  font-style: italic;
+  float: left;
+}
+
+#content {
+  float: right;
+}
